@@ -24,6 +24,10 @@ bin/
 .classpath
 .project
 
-# fabric
+# neoforge (updated from fabric)
 
 run/
+*.log
+logs/
+crash-reports/
+src/generated/
